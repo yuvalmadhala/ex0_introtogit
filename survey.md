@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Pink
+Favorite food: Pasta
+Favorite musician/band: BTS
+Favorite movie: Pride & Prejudice
+Requested grade in the course: 90
